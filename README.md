@@ -23,7 +23,6 @@ Already implemented can be found by connection details at HOST: 34.246.184.49 an
 ## Client
 The main logic behind the project, the client is implemented to take
 into account 2 main actions:
-
 - receiving input from the stdin, validating and sending a corresponding request to the server
 - receiving the response from the server and displaying a response to the user
 
